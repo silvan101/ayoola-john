@@ -45,6 +45,7 @@ a {
   line-height: 28px;
   font-weight: 300;
   text-align: left;
+  text-decoration: none;
   text-indent: 0px;
   white-space: normal;
 }
@@ -129,6 +130,19 @@ a {
 .body {
   padding-top: 20px;
   padding-bottom: 30px;
+}
+
+.fea {
+  display: inline;
+  text-decoration: none;
+}
+
+.link-2 {
+  text-decoration: none;
+}
+
+.link-3 {
+  text-decoration: none;
 }
 
 @media screen and (max-width: 991px) {
